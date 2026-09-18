@@ -1,0 +1,16 @@
+# Render Blueprint configuration for Venkata Surya Kiran Maddipudi's Portfolio Website
+# For more info: https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: portfolio-surya-kiran
+    runtime: node
+    region: singapore # default fast region for Asia/Global
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 20.11.0
+      - key: PORT
+        value: 10000
