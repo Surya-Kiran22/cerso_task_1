@@ -56,7 +56,7 @@ export default function Contact() {
       // Fallback message handling if API endpoint is static hosted without backend
       setStatus({
         loading: false,
-        success: 'Thank you for reaching out! Your message details are ready to be sent to suryamaddipudi10@gmail.com.',
+        success: 'Thank you for reaching out! Your message details are ready to be sent to suryalbrcem9@gmail.com.',
         error: null
       });
     }

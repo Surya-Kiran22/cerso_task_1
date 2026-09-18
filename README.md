@@ -108,6 +108,6 @@ CERSO/
 
 ## 📧 Contact & Links
 
-- **Email**: [suryamaddipudi10@gmail.com](mailto:suryamaddipudi10@gmail.com)
+- **Email**: [suryalbrcem9@gmail.com](mailto:suryalbrcem9@gmail.com)
 - **LinkedIn**: [maddipudi-venkata-surya-kiran-2ba6842ba](https://linkedin.com/in/maddipudi-venkata-surya-kiran-2ba6842ba)
 - **GitHub**: [Surya-Kiran22](https://github.com/Surya-Kiran22)
