@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Linkedin, Mail, Heart, ArrowUp, Terminal } from 'lucide-react';
+import { Github, Linkedin, Mail, Heart, ArrowUp } from 'lucide-react';
 import { personalInfo } from '../data/portfolioData';
 
 export default function Footer() {
@@ -72,15 +72,10 @@ export default function Footer() {
 
         </div>
 
-        {/* Bottom Credits & Render Blueprint info */}
+        {/* Bottom Credits */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div>
             © {new Date().getFullYear()} Venkata Surya Kiran Maddipudi. All rights reserved.
-          </div>
-
-          <div className="flex items-center gap-2">
-            <Terminal className="w-3.5 h-3.5 text-cyan-400" />
-            <span>Ready for 1-Click Deployment with <code className="text-slate-300 bg-slate-800 px-1.5 py-0.5 rounded font-mono">render.yaml</code> Blueprint</span>
           </div>
         </div>
 
